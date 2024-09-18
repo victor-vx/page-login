@@ -1,5 +1,5 @@
 *{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
     text-align: center;
@@ -15,7 +15,7 @@ body{
     width: 20%;
     padding: 0 1px 20px 1px;
 }
-.web input{
+input{
     width: 70%;
     padding: 6px;
     border-radius: 5px;
