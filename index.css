@@ -1,0 +1,23 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 85vh;
+}
+.web{
+    background: black;
+    border-radius: 5px;
+    width: 20%;
+    padding: 0 1px 20px 1px;
+}
+.web input{
+    width: 70%;
+    padding: 6px;
+    border-radius: 5px;
+    border: none;
+}
