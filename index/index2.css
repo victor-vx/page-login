@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    width: 40%;
+    height: 80px;
+   background: greenyellow;
+}
+nav{
+    width: 40%;
+    height: 30px;
+    background: red;
+}
+section{
+    width: 40%;
+    height: 700px;
+    background: orange;
+}
+footer{
+    width: 40%;
+    height: 37px;
+    background: rgb(11, 127, 209);
+}
