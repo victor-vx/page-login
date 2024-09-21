@@ -7,6 +7,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 header{
@@ -32,4 +33,10 @@ footer{
     height: 37px;
     background: rgb(11, 127, 209);
     margin-top: 8px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
