@@ -17,10 +17,13 @@ body{
 }
 input{
     width: 70%;
-    padding: 6px;
+    padding: 8px;
     border-radius: 5px;
     border: none;
 }
 h1{
     color: whitesmoke;
+}
+.sub{
+    width: 40%;
 }
