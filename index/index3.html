@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>None</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background-color: black;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            text-align: center;
+            height: 90vh;
+        }
+        h3{
+            text-align: center;
+        }
+        div{
+            background: white;
+            border-radius: 6px;
+            width: 40%;
+            height: 320px;
+            padding-top: 20px;
+        }
+        fieldset{
+            width: 40%;
+            height: 230px;
+            margin-left: 220px;
+        }
+        input{
+            width: 60%;
+            border: 2px solid black;
+            border-radius: 6px;
+            padding: 5px;
+        }
+        .sub{
+            width: 30%;
+        }
+        .res{
+            width: 30%;
+            margin-left: 19px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h3>Formulario Online</h3><br>
+        <hr>
+        <br>
+        <fieldset><br>
+           <label>Nome: <input type="text"></label><br><br>
+           <label style="margin-left: 3px;">Senha: <input type="password" name="senha"></label><br><br>
+           <label>E-mail: <input type="email" name="email"></label><br><br><br>
+           <input class="sub" type="submit" value="Enviar">
+           <input class="res" type="reset" value="Limpar">
+
+        </fieldset>
+    </div>
+</body>
+</html>
