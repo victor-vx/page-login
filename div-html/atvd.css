@@ -3,10 +3,12 @@
     padding: 0;
 }
 .container{
-    width: 45.2%;
+    width: 46.7%;
     background-color: orange;
     height: 70px;
     margin-bottom: 7px;
+    border: 1px solid black;
+    margin-top: 10px;
 }
 .div{
     display: flex;
@@ -17,6 +19,7 @@
     width: 140px;
     height: 400px;
     text-align: center;
+    border: 1px solid black;
 }
 #div2{
     background: rgba(255, 255, 0, 0.662);
@@ -27,8 +30,9 @@
 #div3{
     width: 180px;
     height: 400px;
-    background-color: rgba(0, 0, 255, 0.768);
+    background-color: rgba(18, 129, 203, 0.768);
     text-align: center;
+    border: 1px solid black;
 }
 .cont{
     background: rgba(89, 29, 117, 0.828);
@@ -36,4 +40,7 @@
     height: 70px;
     margin-top: 7px;
     border: 1px solid plum;
+}
+.section{
+    margin-left: 10px;
 }
