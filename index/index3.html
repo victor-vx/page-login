@@ -34,9 +34,12 @@
         }
         input{
             width: 60%;
-            border: 2px solid black;
+            border: none;
             border-radius: 6px;
             padding: 5px;
+            background: rgba(0, 0, 0, 0.342);
+            color: black;
+            outline: none;
         }
         .sub{
             width: 30%;
@@ -53,8 +56,6 @@
             font-size: medium;
             border: none;
         }
-        label{
-        }
     </style>
 </head>
 <body>
@@ -63,7 +64,7 @@
         <hr>
         <br>
         <fieldset><br>
-           <label>Nome: <input type="text"></label><br><br>
+           <label style="margin-left: 3px;">Nome: <input type="text"></label><br><br>
            <label style="margin-left: 3px;">Senha: <input type="password" name="senha"></label><br><br>
            <label>E-mail: <input type="email" name="email"></label><br><br>
            <label style="margin-left: 15.5px;">CPF: <input type="text"></label><br><br><br><br><br>
