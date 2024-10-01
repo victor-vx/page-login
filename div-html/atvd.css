@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 .container{
     width: 46.7%;
     background-color: orange;
@@ -35,12 +32,9 @@
     border: 1px solid black;
 }
 .cont{
-    background: rgba(89, 29, 117, 0.828);
+    background: rgba(247, 99, 99, 0.418);
     width: 46.7%;
     height: 70px;
     margin-top: 7px;
-    border: 1px solid plum;
-}
-.section{
-    margin-left: 10px;
+    border: 1px solid black;
 }
