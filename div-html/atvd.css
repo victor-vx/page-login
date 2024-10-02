@@ -2,7 +2,7 @@
 .container{
     width: 46.7%;
     background-color: orange;
-    height: 70px;
+    height: 60px;
     margin-bottom: 7px;
     border: 1px solid black;
     margin-top: 10px;
@@ -34,7 +34,7 @@
 .cont{
     background: rgba(247, 99, 99, 0.418);
     width: 46.7%;
-    height: 70px;
+    height: 60px;
     margin-top: 7px;
     border: 1px solid black;
 }
