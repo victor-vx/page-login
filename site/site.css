@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+   background-image: url(https://www.escolatecnicalimoeiro.com.br/wordpress/wp-content/uploads/ete.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+  background-position-y: -170px;
+}
+#img{
+    width: 50px;
+}
+nav a{
+    color: white;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+nav{
+    gap: 16px;
+    background-color: transparent;
+    padding: 10px;
+    display: flex;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+

@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+}
+#nav{
+    gap: 16px;
+    background-color: rgb(9, 114, 190);
+    padding: 50px;
+    display: flex;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+#img{
+    width: 50px;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-left: 80px;
+    font-size: 60px;
+    color: rgb(8, 58, 151);
+}
+p{
+    margin-left: 80px;
+    font-size: 20px;
+
+}
+
+#sec{
+    margin-top: 25vh;
+    background-color: rgba(0, 0, 0, 0.851);
+    width: 200vh;
+    height: 300px;
+    padding: 50px;
+    gap: 10px;
+    display: flex;
+}
+#sec1{
+    background: transparent;
+    border: 1px solid white;
+    width: 40vh;
+    height: 300px;
+    margin-left: 40px;
+}
+#sec2{
+    background: transparent;
+    border: 1px solid white;
+    width: 40vh;
+    height: 300px;
+}
+#sec3{
+    background: transparent;
+    border: 1px solid white;
+    width: 40vh;
+    height: 300px;
+}
+#sec4{
+    background: transparent;
+    border: 1px solid white;
+    width: 40vh;
+    height: 300px;
+}
+#img1{
+    width: 5vh;
+    margin-left: 17vh;
+    margin-top: 6vh;
+    margin-bottom: 2vh;
+}
+#sec1 p{
+    color: white;
+    font-size: 15px;
+}
