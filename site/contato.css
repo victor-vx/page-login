@@ -78,3 +78,15 @@ p{
     color: white;
     font-size: 15px;
 }
+#img2{
+    width: 5vh;
+    margin-left: 17vh;
+    margin-top: 6vh;
+    margin-bottom: 2vh;
+}
+#sec2 p{
+    color: white;
+    font-size: 15px;
+    text-size-adjust: 10px;
+   
+}
